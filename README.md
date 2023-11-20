@@ -3,49 +3,48 @@
    Currency Convert DL-RL
 </h1>
     
-<h2 id="project">📁 Projeto </h2>
-<p>Este é um aplicativo que converte dólar em real e simula a compra da moeda em dinheiro e cartão!</p>
-<p>Para aprendizado e maior conhecimento nesta linguagem de programação, realizei este projeto.</p>
-<p>Desvendando o mundo de desenvolvimento mobile, achei interessante como é construído aplicativos com linguagem nativas como kotlin, java</p>
-<p>Sigo nos estudos com o desenvolvimento mobile!</p>
+<h2 id="project">📁 Project </h2>
+<p>This is an application that converts dollars into reais and simulates the purchase of currency in cash and card!</p>
+<p>To learn and gain greater knowledge in this programming language, I carried out this project.</p>
+<p>Uncovering the world of mobile development, I found it interesting how applications are built with native languages such as Kotlin, Java</p>
+<p>I continue studying mobile development!</p>
 
-<h2 id="tecnology">💻 Tecnologias</h2>
-Este projeto foi desenvolvido com as seguintes tecnologias:
-
+<h2 id="tecnology">💻 Techology</h2>
+This project was developed with the following technologies:
 - Kotlin
 
-<h2>Ferramenta:</h2>
+<h2>Tool:</h2>
 - Android Studio
   
-<h2 id="usage">🎯 Utilização</h2>
+<h2 id="usage">🎯 Use</h2>
 
-No momento não possue deply do aplicatico.
-Execute-o em sua máquina localmente. Certifique-se de ter o `Node.js` , `Kotlin` e o `npm` instalados antes de prosseguir com as etapas abaixo:
+There is currently no application deployment.
+Run it on your machine locally. Make sure you have `Node.js` , `Kotlin` and `npm` installed before proceeding with the steps below:
 
-1. Clone o projeto:
+1. Clone the  project:
 
 ```
 $ git clone https://github.com/natamartins/currencyConvertDLRL.git
 ```
 
-2. No seu terminal, acesse a pasta do projeto:
+2. In your termi, access the past folder:
 
 ```
 $ cd currencyConvertDLRL
 ```
 
-3. Instale as dependências:
+3. Install dependencies:
 
 ```
 $ npm install
 ```
 
-4. Inicie o projeto:
+4. Start the project:
 
 ```
 $ npm run dev
 ```
-## rede social
+## social network
 <div style="display: flex;">
   <a href="https://www.linkedin.com/in/nata-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 2vw" target="_blank"></a>
 </div>
